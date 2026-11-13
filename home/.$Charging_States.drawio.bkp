@@ -1,0 +1,71 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="pftN9eKGYB7rM-rQCKvu">
+    <mxGraphModel dx="443" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-8" edge="1" parent="1" source="KWQGyd_yWPc818PJQ-sb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeWidth=3;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" target="KWQGyd_yWPc818PJQ-sb-7" value="Timer == Timeout">
+          <mxGeometry relative="1" y="15" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontFamily=Helvetica;" value="Pre&lt;div&gt;charge&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-2" edge="1" parent="1" source="KWQGyd_yWPc818PJQ-sb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeWidth=3;" target="KWQGyd_yWPc818PJQ-sb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-3" parent="1" style="shape=ellipse;html=1;fillColor=strokeColor;fontSize=18;fontColor=#ffffff;" value="" vertex="1">
+          <mxGeometry height="10" width="10" x="220" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-11" edge="1" parent="1" source="KWQGyd_yWPc818PJQ-sb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;strokeWidth=3;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" target="KWQGyd_yWPc818PJQ-sb-9" value="Voltage &amp;gt; Threshold">
+          <mxGeometry relative="1" y="15" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontFamily=Helvetica;" value="CC" vertex="1">
+          <mxGeometry height="50" width="50" x="200" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-15" edge="1" parent="1" source="KWQGyd_yWPc818PJQ-sb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=3;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelBackgroundColor=none;" target="KWQGyd_yWPc818PJQ-sb-7" value="Voltage &amp;lt; Threshold">
+          <mxGeometry relative="1" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="160" y="245" />
+              <mxPoint x="160" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontFamily=Helvetica;" value="CV" vertex="1">
+          <mxGeometry height="50" width="50" x="200" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-12" edge="1" parent="1" source="KWQGyd_yWPc818PJQ-sb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=block;endFill=1;strokeWidth=3;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" target="KWQGyd_yWPc818PJQ-sb-7" value="Voltage &amp;lt; Threshold">
+          <mxGeometry relative="1" y="-10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="270" y="193" />
+              <mxPoint x="270" y="157" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-13" edge="1" parent="1" source="KWQGyd_yWPc818PJQ-sb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;strokeWidth=3;endArrow=block;endFill=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" target="KWQGyd_yWPc818PJQ-sb-1" value="Timer != Timeout">
+          <mxGeometry relative="1" y="-10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="270" y="123" />
+              <mxPoint x="270" y="87" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWQGyd_yWPc818PJQ-sb-14" edge="1" parent="1" source="KWQGyd_yWPc818PJQ-sb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=block;endFill=1;strokeWidth=3;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" target="KWQGyd_yWPc818PJQ-sb-9" value="Voltage &amp;gt; Threshold">
+          <mxGeometry relative="1" y="-10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="270" y="263" />
+              <mxPoint x="270" y="227" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

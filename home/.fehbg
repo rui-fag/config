@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/ruifag/Transferências/graphs/software_tests/gnuplot/etc/p1.svg' 

@@ -1,0 +1,6 @@
+[Libinput][1267][23][Elan Touchpad]
+ScrollFactor=1
+
+[Libinput][1267][23][Elan TrackPoint]
+PointerAccelerationProfile=1
+ScrollFactor=1

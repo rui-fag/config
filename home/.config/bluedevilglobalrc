@@ -1,0 +1,11 @@
+[Adapters]
+70:D8:23:EB:88:DA_powered=true
+
+[Devices]
+connectedDevices=
+
+[General]
+launchState=enable
+
+[Global]
+launchState=enable

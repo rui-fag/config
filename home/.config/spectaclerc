@@ -1,0 +1,18 @@
+[Annotations]
+annotationToolType=4
+pixelateStrength=0
+
+[General]
+ocrLanguages=afr
+
+[GuiConfig]
+captureMode=0
+quitAfterSaveCopyExport=true
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/ruifag/Transferências/Captura de ecrã_20260719_202847.png
+lastImageSaveLocation=file:///home/ruifag/Imagens/Screenshots/Captura de ecrã_20260731_160122.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

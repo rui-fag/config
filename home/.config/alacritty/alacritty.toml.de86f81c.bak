@@ -1,0 +1,9 @@
+[keyboard]
+bindings = [
+   { key = "Return", mods = "Control|Shift", action = "SpawnNewInstance" }
+]
+
+[general]
+import = [
+    "~/.config/alacritty/themes/alacritty-theme/themes/gruvbox_dark.toml"
+]

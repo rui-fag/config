@@ -1,0 +1,8 @@
+[General]
+height=404
+hiddenPages=old-history.page,old-overview.page
+lastVisitedPage=history.page
+maximized=true
+pageOrder=overview.page,applications.page,history.page,processes.page,old-history.page,old-overview.page
+startPage=history.page
+width=1533

@@ -1,0 +1,12 @@
+[core]
+	editor = vim
+[user]
+	email = ruifag@gmail.com
+	name = Rui Fernando Amorim Gomes
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[diff]
+	tool = vimdiff

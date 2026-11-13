@@ -1,0 +1,4 @@
+[soe][Autogain#0]
+bypass=true
+maximumHistory=25
+target=-20
